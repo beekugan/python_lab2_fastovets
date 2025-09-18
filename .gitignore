@@ -1,0 +1,43 @@
+# Системні каталоги Linux
+.dockerenv
+app/
+bin/
+boot/
+dev/
+etc/
+home/
+lib/
+lib64/
+media/
+mnt/
+opt/
+proc/
+root/
+run/
+sbin/
+srv/
+sys/
+tmp/
+usr/
+var/
+
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Віртуальні середовища
+.venv/
+venv/
+env/
+
+# IDE / редактори
+.vscode/
+.idea/
+*.iml
+
+# Інше
+.DS_Store
+Thumbs.db
